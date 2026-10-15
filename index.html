@@ -1,0 +1,56 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1"><meta name="theme-color" content="#f8f8f5">
+  <meta name="description" content="李蕊的设计档案袋。打开、抽出、翻阅，探索品牌、包装、书籍与字体作品。">
+  <title>李蕊 · 设计档案袋</title><link rel="icon" href="favicon.svg" type="image/svg+xml"><link rel="stylesheet" href="style.css?v=5"><script src="app.js?v=5" defer></script>
+</head>
+<body>
+  <a class="skip-link" href="#open-bag">打开作品档案</a>
+  <header class="quiet-header"><a href="#" id="home-link" aria-label="回到档案袋"><svg viewBox="0 0 40 40" aria-hidden="true"><path d="M10 24Q14 12 23 9M17 30Q19 22 28 17"/></svg></a><span>李蕊的设计档案 <i>DESIGN · PLAY · EXPLORE</i></span><button id="close-archive" hidden>收回档案袋 <span>↙</span></button></header>
+  <main>
+    <section class="archive-stage" id="stage" aria-label="设计档案袋">
+      <div class="yellow-bubble" aria-hidden="true"><span>Good<br>Ideas<br>Come<br>Alive!</span></div>
+      <div class="corner-scribble" aria-hidden="true"><span>STAY<br>CURIOUS.</span><i>↗</i><div class="round-sticker"><img class="decoration-image" alt=""></div><b>✦</b></div>
+      <div class="bag-scene" id="bag-scene">
+        <div class="bag-ground" aria-hidden="true"></div>
+        <div class="bag-object" id="bag-object" role="button" tabindex="0" aria-label="打开档案袋，抽出个人简介和作品；也可以左右拖动翻面" aria-expanded="false">
+          <div class="bag-rotator" id="bag-rotator">
+            <div class="bag-side bag-front kraft">
+              <div class="fold-corner"></div><div class="bag-seam"></div>
+              <span class="tiny-tape">DESIGNER'S FILE <b>001</b></span>
+              <div class="shipping-label"><div class="ship-head"><strong>李蕊</strong><span>2027<br>PORTFOLIO</span><b>个人<br>档案</b></div><div class="ship-rule"></div><span class="ship-sub">VISUAL COMMUNICATION DESIGN</span><div class="ship-title">设计作品集</div><div class="barcode" aria-hidden="true"></div><div class="ship-foot"><span>收件人：每一个好奇的你</span><span>打开有惊喜 ↗</span></div><div class="handling-icons" aria-hidden="true">↑↑ &nbsp; ◇ &nbsp; ☂ &nbsp; ♻ <span>KEEP YOUR CURIOSITY ALIVE</span></div></div>
+              <div class="inventory-print"><div class="inventory-title">个 人 创 作 档 案</div><table><thead><tr><th>序号</th><th>内 容</th><th>页数</th></tr></thead><tbody id="bag-inventory"></tbody></table><div class="inventory-end">保管人 <b>李蕊</b><span>长期保存 ✓</span></div></div>
+              <span class="red-flag">LI RUI</span><div class="cover-poster sticker"><img id="cover-portrait" alt="李蕊的个人照片"></div><div class="mini-label"><b>设计的事，慢慢聊。</b><div class="barcode" aria-hidden="true"></div></div><span class="bag-bottom-print">NO. 001 / DESIGN ARCHIVE</span>
+            </div>
+            <div class="bag-side bag-back kraft"><div class="extract-sheet" id="extract-sheet"><b>LI RUI</b><strong>设计师档案</strong><span>PERSONAL FILE</span><div></div></div><div class="back-pocket kraft"><div class="back-seam"></div><div class="back-mail-label"><b>LI RUI</b><strong>设计<br>作品集</strong><span>PORTFOLIO</span><div class="barcode"></div><small>OPEN FOR GOOD IDEAS ↗</small></div><span class="red-flag back-flag">LI RUI</span><div class="red-seal">请勿折叠<br>欢迎翻阅</div></div><div class="back-flap kraft"><i></i></div><div class="round-fastener fastener-top"></div><div class="round-fastener fastener-bottom"></div><div class="tie-string"></div></div>
+          </div>
+        </div>
+        <div class="bag-instructions"><button id="open-bag">打开档案袋 <span>↗</span></button><small>点击打开 · 拖动翻面</small></div>
+      </div>
+      <div class="spread-wrap" id="spread-wrap" hidden>
+        <div class="spread-shadow" aria-hidden="true"></div>
+        <div class="spread kraft" id="spread"><span class="spread-flag">LI RUI</span><div class="backing-paper paper-one"></div><div class="backing-paper paper-two"></div>
+          <div class="unfolded-sheet">
+            <article class="personal-file" aria-labelledby="profile-name">
+              <div class="profile-title-line"><h1 id="profile-name">LI RUI</h1><span>IDEAS<br>IN PLAY ↗</span></div><div class="profile-subhead"><h2>设计师档案</h2><span>PERSONAL FILE</span></div><p class="profile-kicker">DESIGN · PLAY · EXPLORE</p>
+              <div class="profile-photo sticker"><button class="view-portrait" aria-label="查看李蕊的个人照片"><img id="profile-portrait" alt="李蕊的个人照片"></button></div>
+              <div class="file-rows"><div><dt>姓名<small>NAME</small></dt><dd class="handwritten">李蕊</dd></div><div><dt>身份<small>IDENTITY</small></dt><dd>视觉传达设计 / 本科在读</dd></div><div><dt>院校<small>EDUCATION</small></dt><dd>西安培华学院</dd></div><div><dt>时间<small>PERIOD</small></dt><dd>2023.09 — 2027.06 <small>预计</small></dd></div><div><dt>创作方向<small>FOCUS</small></dt><dd>品牌 · 包装 · 书籍 · 界面</dd></div></div>
+              <div class="tool-row"><dt>技能方向<small>SKILLS</small></dt><div id="profile-skills"></div></div><div class="bio-row"><dt>个人简介<small>ABOUT</small></dt><p>从文化细节里寻找图形线索，<br>用纹样、色彩与版式，记录新的想法。<b>Keep curious. Keep creating.</b></p></div>
+              <div class="file-bottom"><button id="more-about"><span class="globe" aria-hidden="true">◎</span><span><b>更多关于我</b><small>EDUCATION / EXPERIENCE</small></span>↗</button><button class="contact-link" id="show-contact">一起做点有趣的 <span>↗</span></button></div><span class="blue-date-stamp">20<br>27</span><span class="profile-page-number">FILE / 01</span>
+            </article>
+            <section class="project-stack" aria-label="作品册"><div class="stack-behind behind-yellow"></div><div class="stack-behind behind-blue"></div><div class="paperclip" aria-hidden="true"></div><button class="index-tab" id="index-toggle" aria-expanded="false" aria-controls="project-index">☺<span>目录</span></button><div class="project-index" id="project-index" hidden><div>作品清单 <span>CONTENTS</span></div><div id="index-list"></div></div>
+              <button class="project-booklet" id="project-booklet" aria-label="打开当前作品册"><div class="booklet-top"><span>SELECTED<br>WORKS</span><b id="booklet-number">01 / 05</b><span>DESIGN<br>ARCHIVE</span></div><div class="booklet-headline" id="booklet-headline"></div><div class="booklet-photo"><img id="booklet-cover" alt=""><span class="photo-caption" id="booklet-category"></span></div><div class="booklet-caption"><h2 id="booklet-title"></h2><p id="booklet-subtitle"></p></div><div class="booklet-foot"><span>打开这份作品 ↗</span><span id="booklet-pages"></span></div></button>
+              <div class="booklet-controls"><button id="previous-booklet" aria-label="上一本作品册">←</button><span>翻一翻 <b id="booklet-position"></b></span><button id="next-booklet" aria-label="下一本作品册">→</button></div>
+            </section>
+          </div><span class="spread-note">一份关于观察、表达与好奇心的档案。</span>
+        </div><div class="spread-actions"><button id="close-spread">收回档案袋 ↙</button><span>点击照片可放大 · 翻动右侧作品册</span></div>
+      </div>
+    </section>
+  </main>
+  <footer class="quiet-footer"><span>李蕊 · PERSONAL DESIGN ARCHIVE</span><span id="archive-count"></span></footer>
+  <dialog class="project-dialog" id="project-dialog" aria-labelledby="project-title"><div class="dialog-top"><span id="project-breadcrumb"></span><button class="icon-button" id="close-project" aria-label="关闭作品册">×</button></div><div class="project-detail-layout"><aside class="project-information"><p class="small-label" id="detail-number"></p><h2 id="project-title"></h2><p class="detail-category" id="detail-category"></p><p class="detail-description" id="detail-description"></p><nav id="detail-chapters" aria-label="作品章节"></nav><div class="project-pagination"><button id="previous-project" aria-label="上一件作品">←</button><span id="detail-position"></span><button id="next-project" aria-label="下一件作品">→</button></div></aside><div class="project-gallery" id="project-gallery"></div></div></dialog>
+  <dialog class="lightbox" id="lightbox" aria-label="图片大图"><div class="lightbox-top"><span id="lightbox-caption"></span><button class="icon-button" id="close-lightbox" aria-label="关闭大图">×</button></div><div class="lightbox-stage"><button class="lightbox-arrow" id="previous-image" aria-label="上一张图片">←</button><img id="lightbox-image" alt=""><button class="lightbox-arrow" id="next-image" aria-label="下一张图片">→</button></div><div class="lightbox-bottom"><span>← → 翻页 · ESC 关闭</span><span id="lightbox-position"></span></div></dialog>
+  <dialog class="about-dialog" id="about-dialog" aria-labelledby="about-title"><div class="dialog-top"><span>PERSONAL FILE / 01</span><button class="icon-button" id="close-about" aria-label="收起个人资料">×</button></div><div class="about-body"><div class="about-title"><div><span class="small-label">VISUAL COMMUNICATION DESIGN</span><h2 id="about-title">李蕊</h2><p>视觉设计 / 界面设计实习</p></div><img id="about-portrait" alt="李蕊的个人照片"></div><p id="about-bio"></p><section><h3>教育背景</h3><p>西安培华学院 · 视觉传达设计本科<br>2023.09 — 2027.06（预计）</p></section><section><h3>项目与校园经历</h3><div id="about-experiences"></div></section><section><h3>荣誉记录</h3><div id="about-awards"></div></section><section id="about-contact"><h3>联系我</h3><div id="about-contacts"></div></section></div></dialog>
+  <div class="load-error" id="load-error" hidden>档案暂时未能读取，请刷新重试。</div><p class="sr-only" id="live-status" role="status" aria-live="polite"></p>
+</body></html>

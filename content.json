@@ -1,0 +1,971 @@
+{
+  "person": {
+    "name": "李蕊",
+    "headline": "视觉传达设计 · 品牌 / 图形 / 界面",
+    "bio": "我是李蕊，西安培华学院视觉传达设计专业本科在读。我从文化细节里寻找图形线索，再把它们转化成纹样、色彩与版式；也在探索界面设计中的需求与信息组织。",
+    "portrait": "assets/portrait-p2.webp",
+    "facts": [
+      [
+        "专业",
+        "视觉传达设计 · 本科在读"
+      ],
+      [
+        "院校",
+        "西安培华学院"
+      ],
+      [
+        "学业",
+        "2023.09—2027.06（预计）"
+      ],
+      [
+        "方向",
+        "视觉设计 / 界面设计实习"
+      ]
+    ],
+    "skills": [
+      "Illustrator",
+      "Photoshop",
+      "Figma",
+      "CSP"
+    ],
+    "experiences": [
+      {
+        "title": "海派文化与品牌视觉探索",
+        "description": "调研“哈氏”品牌文化，提取老地砖、玻璃花窗中的图形，完成纹样、色彩与展板设计。"
+      },
+      {
+        "title": "院党支部办公室",
+        "description": "公众号推文、活动宣传与组织活动。"
+      },
+      {
+        "title": "特雷森社团 · 部长",
+        "description": "策划社团活动与表演行程，组织团员参加活动。"
+      }
+    ],
+    "awards": [
+      {
+        "name": "全国大学生创新创业能力大赛",
+        "rank": "一等奖",
+        "year": null
+      },
+      {
+        "name": "大学生组织管理能力大赛",
+        "rank": "二等奖",
+        "year": null
+      },
+      {
+        "name": "华夏杯两岸青年大赛",
+        "rank": "二等奖",
+        "year": 2024
+      },
+      {
+        "name": "华夏杯两岸青年定向赛道",
+        "rank": "三等奖",
+        "year": 2024
+      }
+    ],
+    "contacts": [
+      {
+        "label": "邮箱",
+        "value": "2927735931@qq.com",
+        "href": "mailto:2927735931@qq.com"
+      },
+      {
+        "label": "电话",
+        "value": "13275637249",
+        "href": "tel:13275637249"
+      }
+    ]
+  },
+  "projects": [
+    {
+      "id": "mazhazha",
+      "title": "麻喳喳 · MA ZHA ZHA",
+      "category": "品牌与数字设计",
+      "description": "以“手上节奏，耳边故事”为主题，将声音与节奏转化为标志、图形和界面，延展到移动端、网页、客户端与品牌衍生品。",
+      "cover": "assets/mazhazha-cover.webp",
+      "thumbnail": "assets/mazhazha-thumb.webp",
+      "images": [
+        "assets/mazhazha-01.webp",
+        "assets/mazhazha-02.webp",
+        "assets/mazhazha-03.webp",
+        "assets/mazhazha-04.webp",
+        "assets/mazhazha-05.webp",
+        "assets/mazhazha-06.webp",
+        "assets/mazhazha-07.webp",
+        "assets/mazhazha-08.webp",
+        "assets/mazhazha-09.webp",
+        "assets/mazhazha-10.webp",
+        "assets/mazhazha-11.webp",
+        "assets/mazhazha-12.webp",
+        "assets/mazhazha-13.webp",
+        "assets/mazhazha-14.webp",
+        "assets/mazhazha-15.webp",
+        "assets/mazhazha-16.webp",
+        "assets/mazhazha-17.webp",
+        "assets/mazhazha-18.webp",
+        "assets/mazhazha-19.webp",
+        "assets/mazhazha-20.webp",
+        "assets/mazhazha-21.webp",
+        "assets/mazhazha-22.webp",
+        "assets/mazhazha-23.webp",
+        "assets/mazhazha-24.webp",
+        "assets/mazhazha-25.webp",
+        "assets/mazhazha-26.webp",
+        "assets/mazhazha-27.webp",
+        "assets/mazhazha-28.webp",
+        "assets/mazhazha-29.webp",
+        "assets/mazhazha-30.webp",
+        "assets/mazhazha-31.webp",
+        "assets/mazhazha-32.webp",
+        "assets/mazhazha-33.webp",
+        "assets/mazhazha-34.webp",
+        "assets/mazhazha-35.webp",
+        "assets/mazhazha-36.webp",
+        "assets/mazhazha-37.webp",
+        "assets/mazhazha-38.webp",
+        "assets/mazhazha-39.webp",
+        "assets/mazhazha-40.webp",
+        "assets/mazhazha-41.webp",
+        "assets/mazhazha-42.webp",
+        "assets/mazhazha-43.webp",
+        "assets/mazhazha-44.webp",
+        "assets/mazhazha-45.webp",
+        "assets/mazhazha-46.webp",
+        "assets/mazhazha-47.webp",
+        "assets/mazhazha-48.webp",
+        "assets/mazhazha-49.webp",
+        "assets/mazhazha-50.webp",
+        "assets/mazhazha-51.webp",
+        "assets/mazhazha-52.webp",
+        "assets/mazhazha-53.webp",
+        "assets/mazhazha-54.webp",
+        "assets/mazhazha-55.webp",
+        "assets/mazhazha-56.webp",
+        "assets/mazhazha-57.webp",
+        "assets/mazhazha-58.webp",
+        "assets/mazhazha-59.webp",
+        "assets/mazhazha-60.webp",
+        "assets/mazhazha-61.webp",
+        "assets/mazhazha-62.webp",
+        "assets/mazhazha-63.webp",
+        "assets/mazhazha-64.webp",
+        "assets/mazhazha-65.webp",
+        "assets/mazhazha-66.webp",
+        "assets/mazhazha-67.webp",
+        "assets/mazhazha-68.webp",
+        "assets/mazhazha-69.webp",
+        "assets/mazhazha-70.webp",
+        "assets/mazhazha-71.webp",
+        "assets/mazhazha-72.webp"
+      ],
+      "chapters": [
+        {
+          "title": "品牌封面",
+          "start": 1,
+          "end": 2
+        },
+        {
+          "title": "标志与视觉系统",
+          "start": 3,
+          "end": 24
+        },
+        {
+          "title": "移动端与网页应用",
+          "start": 25,
+          "end": 45
+        },
+        {
+          "title": "客户端设计",
+          "start": 46,
+          "end": 61
+        },
+        {
+          "title": "衍生品与品牌收尾",
+          "start": 62,
+          "end": 72
+        }
+      ],
+      "group": "品牌 / 包装",
+      "dimensions": [
+        {
+          "width": 2000,
+          "height": 1414
+        },
+        {
+          "width": 2000,
+          "height": 1414
+        },
+        {
+          "width": 2000,
+          "height": 1414
+        },
+        {
+          "width": 2000,
+          "height": 1414
+        },
+        {
+          "width": 2000,
+          "height": 1414
+        },
+        {
+          "width": 2000,
+          "height": 1414
+        },
+        {
+          "width": 2000,
+          "height": 1414
+        },
+        {
+          "width": 2000,
+          "height": 1414
+        },
+        {
+          "width": 2000,
+          "height": 1414
+        },
+        {
+          "width": 2000,
+          "height": 1414
+        },
+        {
+          "width": 2000,
+          "height": 1414
+        },
+        {
+          "width": 2000,
+          "height": 1414
+        },
+        {
+          "width": 2000,
+          "height": 1414
+        },
+        {
+          "width": 2000,
+          "height": 1414
+        },
+        {
+          "width": 2000,
+          "height": 1414
+        },
+        {
+          "width": 2000,
+          "height": 1414
+        },
+        {
+          "width": 2000,
+          "height": 1414
+        },
+        {
+          "width": 2000,
+          "height": 1414
+        },
+        {
+          "width": 2000,
+          "height": 1414
+        },
+        {
+          "width": 2000,
+          "height": 1414
+        },
+        {
+          "width": 2000,
+          "height": 1414
+        },
+        {
+          "width": 2000,
+          "height": 1414
+        },
+        {
+          "width": 2000,
+          "height": 1414
+        },
+        {
+          "width": 2000,
+          "height": 1414
+        },
+        {
+          "width": 2000,
+          "height": 1414
+        },
+        {
+          "width": 2000,
+          "height": 1414
+        },
+        {
+          "width": 2000,
+          "height": 1414
+        },
+        {
+          "width": 2000,
+          "height": 1414
+        },
+        {
+          "width": 2000,
+          "height": 1414
+        },
+        {
+          "width": 2000,
+          "height": 1414
+        },
+        {
+          "width": 2000,
+          "height": 1414
+        },
+        {
+          "width": 2000,
+          "height": 1414
+        },
+        {
+          "width": 2000,
+          "height": 1414
+        },
+        {
+          "width": 2000,
+          "height": 1414
+        },
+        {
+          "width": 2000,
+          "height": 1414
+        },
+        {
+          "width": 2000,
+          "height": 1414
+        },
+        {
+          "width": 2000,
+          "height": 1414
+        },
+        {
+          "width": 2000,
+          "height": 1414
+        },
+        {
+          "width": 2000,
+          "height": 1414
+        },
+        {
+          "width": 2000,
+          "height": 1414
+        },
+        {
+          "width": 2000,
+          "height": 1414
+        },
+        {
+          "width": 2000,
+          "height": 1414
+        },
+        {
+          "width": 2000,
+          "height": 1333
+        },
+        {
+          "width": 2000,
+          "height": 1414
+        },
+        {
+          "width": 2000,
+          "height": 1414
+        },
+        {
+          "width": 2000,
+          "height": 1414
+        },
+        {
+          "width": 2000,
+          "height": 1414
+        },
+        {
+          "width": 2000,
+          "height": 1414
+        },
+        {
+          "width": 2000,
+          "height": 1414
+        },
+        {
+          "width": 2000,
+          "height": 1414
+        },
+        {
+          "width": 2000,
+          "height": 1414
+        },
+        {
+          "width": 2000,
+          "height": 1414
+        },
+        {
+          "width": 2000,
+          "height": 1414
+        },
+        {
+          "width": 2000,
+          "height": 1414
+        },
+        {
+          "width": 2000,
+          "height": 1414
+        },
+        {
+          "width": 2000,
+          "height": 1414
+        },
+        {
+          "width": 2000,
+          "height": 1414
+        },
+        {
+          "width": 2000,
+          "height": 1414
+        },
+        {
+          "width": 2000,
+          "height": 1414
+        },
+        {
+          "width": 2000,
+          "height": 1414
+        },
+        {
+          "width": 2000,
+          "height": 1414
+        },
+        {
+          "width": 2000,
+          "height": 1414
+        },
+        {
+          "width": 2000,
+          "height": 1414
+        },
+        {
+          "width": 2000,
+          "height": 1414
+        },
+        {
+          "width": 2000,
+          "height": 1342
+        },
+        {
+          "width": 2000,
+          "height": 1414
+        },
+        {
+          "width": 2000,
+          "height": 1414
+        },
+        {
+          "width": 2000,
+          "height": 1414
+        },
+        {
+          "width": 2000,
+          "height": 1414
+        },
+        {
+          "width": 2000,
+          "height": 1414
+        },
+        {
+          "width": 2000,
+          "height": 1414
+        },
+        {
+          "width": 2000,
+          "height": 1414
+        }
+      ]
+    },
+    {
+      "id": "slow",
+      "title": "慢半拍 · 情绪补给站",
+      "category": "品牌与包装设计",
+      "description": "用趴趴、绷绷与游游三个角色表达疲惫、紧绷与放空，把“今天不必满格”延展为饮料包装、系列海报、贴纸和手提袋。",
+      "cover": "assets/slow-cover.webp",
+      "thumbnail": "assets/slow-thumb.webp",
+      "images": [
+        "assets/slow-01.webp",
+        "assets/slow-02.webp",
+        "assets/slow-03.webp",
+        "assets/slow-04.webp",
+        "assets/slow-05.webp",
+        "assets/slow-06.webp",
+        "assets/slow-07.webp",
+        "assets/slow-08.webp",
+        "assets/slow-09.webp",
+        "assets/slow-10.webp"
+      ],
+      "chapters": [
+        {
+          "title": "品牌与角色",
+          "start": 1,
+          "end": 2
+        },
+        {
+          "title": "饮料包装",
+          "start": 3,
+          "end": 6
+        },
+        {
+          "title": "海报、贴纸与应用",
+          "start": 7,
+          "end": 10
+        }
+      ],
+      "group": "品牌 / 包装",
+      "dimensions": [
+        {
+          "width": 2000,
+          "height": 1458
+        },
+        {
+          "width": 2000,
+          "height": 1125
+        },
+        {
+          "width": 2000,
+          "height": 1365
+        },
+        {
+          "width": 2000,
+          "height": 1125
+        },
+        {
+          "width": 2000,
+          "height": 1125
+        },
+        {
+          "width": 2000,
+          "height": 1125
+        },
+        {
+          "width": 2000,
+          "height": 1125
+        },
+        {
+          "width": 2000,
+          "height": 1365
+        },
+        {
+          "width": 2000,
+          "height": 1125
+        },
+        {
+          "width": 2000,
+          "height": 1125
+        }
+      ]
+    },
+    {
+      "id": "harmony",
+      "title": "和融记 · Harmony",
+      "category": "包装与视觉设计",
+      "description": "从建筑纹样、彩色玻璃与城市细节中提取视觉语言，将海派文化记忆融入糕点礼盒、单品包装、海报和延展应用。",
+      "cover": "assets/harmony-cover.webp",
+      "thumbnail": "assets/harmony-thumb.webp",
+      "images": [
+        "assets/harmony-01.webp",
+        "assets/harmony-02.webp",
+        "assets/harmony-03.webp",
+        "assets/harmony-04.webp",
+        "assets/harmony-05.webp"
+      ],
+      "chapters": [
+        {
+          "title": "项目概览",
+          "start": 1,
+          "end": 1
+        },
+        {
+          "title": "视觉语言",
+          "start": 2,
+          "end": 2
+        },
+        {
+          "title": "包装系统",
+          "start": 3,
+          "end": 3
+        },
+        {
+          "title": "海报与延展应用",
+          "start": 4,
+          "end": 5
+        }
+      ],
+      "group": "品牌 / 包装",
+      "dimensions": [
+        {
+          "width": 2000,
+          "height": 1125
+        },
+        {
+          "width": 2000,
+          "height": 1125
+        },
+        {
+          "width": 2000,
+          "height": 1125
+        },
+        {
+          "width": 2000,
+          "height": 1125
+        },
+        {
+          "width": 2000,
+          "height": 1125
+        }
+      ]
+    },
+    {
+      "id": "paper",
+      "title": "墨韵万变 · 纸寿千年",
+      "category": "书籍与版式设计",
+      "description": "围绕宣纸的历史、制作工艺、储存、挑选与保护传承，以竖排文字、线描插画和朱红印章组织纸页阅读节奏。",
+      "cover": "assets/paper-cover.webp",
+      "thumbnail": "assets/paper-thumb.webp",
+      "images": [
+        "assets/paper-01.webp",
+        "assets/paper-02.webp",
+        "assets/paper-03.webp",
+        "assets/paper-04.webp",
+        "assets/paper-05.webp",
+        "assets/paper-06.webp",
+        "assets/paper-07.webp",
+        "assets/paper-08.webp",
+        "assets/paper-09.webp",
+        "assets/paper-10.webp",
+        "assets/paper-11.webp",
+        "assets/paper-12.webp",
+        "assets/paper-13.webp",
+        "assets/paper-14.webp",
+        "assets/paper-15.webp",
+        "assets/paper-16.webp",
+        "assets/paper-17.webp",
+        "assets/paper-18.webp",
+        "assets/paper-19.webp",
+        "assets/paper-20.webp",
+        "assets/paper-21.webp",
+        "assets/paper-22.webp",
+        "assets/paper-23.webp",
+        "assets/paper-24.webp",
+        "assets/paper-25.webp",
+        "assets/paper-26.webp"
+      ],
+      "chapters": [
+        {
+          "title": "宣纸与制作工艺",
+          "start": 1,
+          "end": 15
+        },
+        {
+          "title": "储存与挑选",
+          "start": 16,
+          "end": 20
+        },
+        {
+          "title": "工艺、保护与传承",
+          "start": 21,
+          "end": 26
+        }
+      ],
+      "group": "书籍设计",
+      "dimensions": [
+        {
+          "width": 1514,
+          "height": 2000
+        },
+        {
+          "width": 1514,
+          "height": 2000
+        },
+        {
+          "width": 1514,
+          "height": 2000
+        },
+        {
+          "width": 1514,
+          "height": 2000
+        },
+        {
+          "width": 1514,
+          "height": 2000
+        },
+        {
+          "width": 1514,
+          "height": 2000
+        },
+        {
+          "width": 1514,
+          "height": 2000
+        },
+        {
+          "width": 1514,
+          "height": 2000
+        },
+        {
+          "width": 1514,
+          "height": 2000
+        },
+        {
+          "width": 1514,
+          "height": 2000
+        },
+        {
+          "width": 1514,
+          "height": 2000
+        },
+        {
+          "width": 1514,
+          "height": 2000
+        },
+        {
+          "width": 1514,
+          "height": 2000
+        },
+        {
+          "width": 1514,
+          "height": 2000
+        },
+        {
+          "width": 1514,
+          "height": 2000
+        },
+        {
+          "width": 1514,
+          "height": 2000
+        },
+        {
+          "width": 1514,
+          "height": 2000
+        },
+        {
+          "width": 1514,
+          "height": 2000
+        },
+        {
+          "width": 1514,
+          "height": 2000
+        },
+        {
+          "width": 1514,
+          "height": 2000
+        },
+        {
+          "width": 1514,
+          "height": 2000
+        },
+        {
+          "width": 1514,
+          "height": 2000
+        },
+        {
+          "width": 1514,
+          "height": 2000
+        },
+        {
+          "width": 1514,
+          "height": 2000
+        },
+        {
+          "width": 1514,
+          "height": 2000
+        },
+        {
+          "width": 1514,
+          "height": 2000
+        }
+      ]
+    },
+    {
+      "id": "azure",
+      "title": "苍蓝越界 · Azure Unbound",
+      "category": "音乐节视觉设计",
+      "description": "围绕「苍蓝越界」独立音乐节主题，以切割感标题字、拼贴图形和蓝紫配色建立视觉系统，延展至主海报、门票、入场手环、嘉宾证、工作证、媒体证、宣传旗与手提袋，并展示对应的应用效果。",
+      "cover": "assets/azure-cover.webp",
+      "thumbnail": "assets/azure-thumb.webp",
+      "images": [
+        "assets/azure-01.webp",
+        "assets/azure-02.webp",
+        "assets/azure-03.webp",
+        "assets/azure-04.webp",
+        "assets/azure-05.webp",
+        "assets/azure-06.webp",
+        "assets/azure-07.webp",
+        "assets/azure-08.webp",
+        "assets/azure-09.webp",
+        "assets/azure-10.webp",
+        "assets/azure-11.webp",
+        "assets/azure-12.webp",
+        "assets/azure-13.webp",
+        "assets/azure-14.webp",
+        "assets/azure-15.webp",
+        "assets/azure-16.webp",
+        "assets/azure-17.webp",
+        "assets/azure-18.webp",
+        "assets/azure-19.webp",
+        "assets/azure-20.webp",
+        "assets/azure-21.webp",
+        "assets/azure-22.webp",
+        "assets/azure-23.webp",
+        "assets/azure-24.webp",
+        "assets/azure-25.webp",
+        "assets/azure-26.webp",
+        "assets/azure-27.webp"
+      ],
+      "chapters": [
+        {
+          "title": "标题字与标准色",
+          "start": 1,
+          "end": 1
+        },
+        {
+          "title": "主海报与场景应用",
+          "start": 2,
+          "end": 6
+        },
+        {
+          "title": "门票设计与应用",
+          "start": 7,
+          "end": 11
+        },
+        {
+          "title": "入场手环与应用",
+          "start": 12,
+          "end": 16
+        },
+        {
+          "title": "证件系统与应用",
+          "start": 17,
+          "end": 21
+        },
+        {
+          "title": "宣传旗与应用",
+          "start": 22,
+          "end": 24
+        },
+        {
+          "title": "手提袋与应用",
+          "start": 25,
+          "end": 27
+        }
+      ],
+      "group": "品牌与视觉设计",
+      "dimensions": [
+        {
+          "width": 2000,
+          "height": 1125
+        },
+        {
+          "width": 2000,
+          "height": 1106
+        },
+        {
+          "width": 1999,
+          "height": 1125
+        },
+        {
+          "width": 1999,
+          "height": 1125
+        },
+        {
+          "width": 1999,
+          "height": 1125
+        },
+        {
+          "width": 1999,
+          "height": 1125
+        },
+        {
+          "width": 2000,
+          "height": 843
+        },
+        {
+          "width": 2000,
+          "height": 1333
+        },
+        {
+          "width": 2000,
+          "height": 1333
+        },
+        {
+          "width": 2000,
+          "height": 1333
+        },
+        {
+          "width": 2000,
+          "height": 1333
+        },
+        {
+          "width": 2000,
+          "height": 211
+        },
+        {
+          "width": 2002,
+          "height": 1333
+        },
+        {
+          "width": 2002,
+          "height": 1333
+        },
+        {
+          "width": 2002,
+          "height": 1333
+        },
+        {
+          "width": 2002,
+          "height": 1333
+        },
+        {
+          "width": 2000,
+          "height": 978
+        },
+        {
+          "width": 1998,
+          "height": 1332
+        },
+        {
+          "width": 1998,
+          "height": 1332
+        },
+        {
+          "width": 1998,
+          "height": 1332
+        },
+        {
+          "width": 1998,
+          "height": 1332
+        },
+        {
+          "width": 2000,
+          "height": 1726
+        },
+        {
+          "width": 2000,
+          "height": 1333
+        },
+        {
+          "width": 2000,
+          "height": 1333
+        },
+        {
+          "width": 2000,
+          "height": 867
+        },
+        {
+          "width": 2000,
+          "height": 1770
+        },
+        {
+          "width": 2001,
+          "height": 1334
+        }
+      ]
+    }
+  ],
+  "decorations": {
+    "poster": "assets/gojo-01.webp",
+    "posterTitle": "五条悟 · 桌面收藏"
+  }
+}
