@@ -13,8 +13,8 @@ const announce = value => setText('live-status',value);
 const modalOpen = () => [...document.querySelectorAll('dialog')].some(dialog=>dialog.open);
 const syncModal = () => document.body.classList.toggle('modal-open',modalOpen());
 const rotateBag = angle => { state.angle=angle; $('bag-rotator').style.setProperty('--ry',`${angle}deg`); };
-const headline = { mazhazha:'BRAND, IN RHYTHM.', slow:'SLOW DOWN A LITTLE.', harmony:'A TASTE OF CULTURE.', paper:'STORIES ON PAPER.', azure:'MUSIC WITHOUT LIMITS.' };
-const inventoryNames = { mazhazha:'品牌与数字设计',slow:'情绪品牌与包装',harmony:'海派文化礼盒',paper:'宣纸主题书籍',azure:'音乐节视觉设计' };
+const headline = { mazhazha:'BRAND, IN RHYTHM.', slow:'SLOW DOWN A LITTLE.', harmony:'A TASTE OF CULTURE.', paper:'STORIES ON PAPER.', azure:'MUSIC WITHOUT LIMITS.', handdrawn:'DRAWN WITH CHARACTER.' };
+const inventoryNames = { mazhazha:'品牌与数字设计',slow:'情绪品牌与包装',harmony:'海派文化礼盒',paper:'宣纸主题书籍',azure:'音乐节视觉设计',handdrawn:'手绘与角色插画' };
 
 function populateArchive() {
   const {person,projects,decorations}=state.data;

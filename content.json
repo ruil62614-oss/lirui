@@ -962,6 +962,56 @@
           "height": 1334
         }
       ]
+    },
+    {
+      "id": "handdrawn",
+      "title": "手绘与角色插画",
+      "category": "手绘与数字绘画",
+      "description": "角色绘画与主题插画作品，包含人物造型、色彩表现和场景构图，以及一张创作过程截图。",
+      "cover": "assets/handdrawn-01.webp",
+      "thumbnail": "assets/handdrawn-01.webp",
+      "images": [
+        "assets/handdrawn-01.webp",
+        "assets/handdrawn-02.webp",
+        "assets/handdrawn-03.webp",
+        "assets/handdrawn-04.webp",
+        "assets/handdrawn-05.webp"
+      ],
+      "dimensions": [
+        {
+          "width": 2400,
+          "height": 1697
+        },
+        {
+          "width": 1697,
+          "height": 2400
+        },
+        {
+          "width": 1694,
+          "height": 2400
+        },
+        {
+          "width": 897,
+          "height": 1463
+        },
+        {
+          "width": 1384,
+          "height": 877
+        }
+      ],
+      "chapters": [
+        {
+          "title": "角色与主题插画",
+          "start": 1,
+          "end": 4
+        },
+        {
+          "title": "创作过程",
+          "start": 5,
+          "end": 5
+        }
+      ],
+      "group": "插画与手绘"
     }
   ],
   "decorations": {

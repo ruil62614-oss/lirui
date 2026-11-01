@@ -14,3 +14,7 @@ dialog{border:0;padding:0;color:var(--black);font:inherit;max-width:none;max-hei
 @media(prefers-reduced-motion:reduce){html{scroll-behavior:auto}*,*:before,*:after{transition-duration:.01ms!important;animation-duration:.01ms!important;animation-delay:0ms!important;scroll-behavior:auto!important}}
 
 .ship-head strong{letter-spacing:2px}.about-title>img{object-position:50% 55%}
+
+/* Six archive entries: keep the inventory above the photo and footer. */
+.inventory-print td{padding-top:3px;padding-bottom:3px}.inventory-end{margin-top:3px}
+@media(max-width:600px){.inventory-print td{padding-top:2px;padding-bottom:2px}}
